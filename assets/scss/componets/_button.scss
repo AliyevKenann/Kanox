@@ -1,0 +1,70 @@
+.btn_1 {
+    display: inline-block;
+    padding: 19.5px 42px;
+    background-color: #ff1481;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    transition: all .4s ease-in-out;
+    margin-top: 44px;
+    border-radius: 4px;
+    font-weight: 500;
+    box-shadow: 0px 10px 30px 0px rgba(190, 0, 89, 0.557);
+    border: 0;
+    cursor: pointer;
+
+    &:hover {
+        box-shadow: 0px 10px 30px 0px rgba(190, 0, 89, 0.863);
+    }
+}
+
+.btn-2{
+    background-color: #ff1481;
+    color: #fff;
+    width: 50px;
+    border-radius: 0px;
+    height: 40px;
+    border: none;
+}
+
+.btn_3 {
+    font-size: 14px;
+    color: #112e41;
+    text-transform: uppercase;
+    font-family: "Oswald", sans-serif;
+    font-weight: 500;
+    letter-spacing: 1.3px;
+    padding-top: 32px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    &:hover {
+        color: #ff1481;
+    }
+}
+
+.btn-4{
+    display: flex;
+     align-items: center; 
+     justify-content: start;
+      width: 70%; 
+      gap: 10px
+}
+
+.btn_4{
+    display: inline-block;
+    border: 1px solid transparent;
+    font-size: 15px;
+    border-radius: 4px;
+    color: #fff;
+    border-color: #fdcb9e;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    background-color: #ff1481;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+    margin-top: 20px;
+    font-family: Roboto;
+    font-weight: 100;
+}
